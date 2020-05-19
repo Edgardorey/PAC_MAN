@@ -20,11 +20,8 @@ Kills Pac-Man when he touches him
 -Power Pellet(50 pts)
 change ghost color to blue, allows pac man to eat the ghosts, put a timer for how long it lasts, 200 pts for first eat and times 2 for each next one 
 
--Ghost behavoir when Frightened mode active 
-Blinky: 
-Pinly:
-Inky:
-Clyde:
+-Frightened mode active 
+make the ghosts move the opposite way 
 
 -Pac-Man lives
 3 lives to start, 10,000 points extra life, lose life everytime a ghost eats him
